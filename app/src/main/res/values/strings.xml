@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Workout</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_start">Workout</string>
+    <string name="title_activity_bmi">BMI Calculator</string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="title_activity_feedback">FeedBack</string>
+    <string name="title_activity_help">Help</string>
+    <string name="personalInfo"><u>Personal Information</u></string>
+    <string name="Feedback"><u>Feedback</u></string>
+    <string name="title_activity_work1">work1</string>
+    <string name="workoutLog"><u>Workout Logs</u></string>
+    <string name="title_activity_last_activity10">lastActivity10</string>
+
+</resources>
